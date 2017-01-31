@@ -1,2 +1,1 @@
-# d3Ex
-Korean population stacked graph using D3.js 
+통계청 데이터를 기반으로 만든 한국 인구, 나이별 분포도 막대그래프 입니다.
